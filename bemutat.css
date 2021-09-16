@@ -1,16 +1,18 @@
 body{
-
+    background-image: url(kockasfulu2.jpg);
+    background-repeat: no-repeat;
+    padding-left: 5px;
 }
 
 
 .csapat{
-
+    
 }
 
 
 
 .Doma{
-
+    
 }
 
 
@@ -30,4 +32,14 @@ body{
 
 .Szabi{
 
+}
+
+.gan {
+    
+}
+
+img {
+    width: 200px;
+    
+float: left;
 }
