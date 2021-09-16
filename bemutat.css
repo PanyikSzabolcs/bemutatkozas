@@ -12,24 +12,23 @@ body{
 
 
 .Doma{
-    
+    font-style: italic;
 }
 
 
 
 .Zsolti{
-
-
+    font-style: italic;
 }
 
 
 .Ádi{
-    
+    font-style: italic;
 }
 
 
 .Szabi{
-
+    font-style: italic;
 }
 
 .gan {
@@ -40,4 +39,17 @@ img {
     width: 200px;
     
 float: left;
+}
+
+h1 {
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+#cimsor {
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
 }
